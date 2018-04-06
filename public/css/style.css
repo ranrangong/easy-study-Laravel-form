@@ -1,0 +1,16 @@
+/*common start*/
+h1{
+    letter-spacing: 10px;
+    font-family: courier new;
+    font-weight: bold;
+    color: #505050;
+    text-shadow: 2px 3px 5px rgba(0,0,0,.3);
+}
+footer{
+    background: #2e2e2e;
+    color:#fff;
+    font-size: 12px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+/*common end*/

@@ -1,0 +1,12 @@
+.tooltip-inner{
+    padding:10px 20px;
+    box-shadow: 0 0 0 3px rgba(0,0,0,.3);
+}
+i{
+    cursor: pointer;
+}
+input[type="radio"],
+input[type="checkbox"]{
+    width: 20px;
+    height: 20px;
+}
